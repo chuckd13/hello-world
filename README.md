@@ -1,4 +1,4 @@
 # hello-world
-repository description goes here.
+repository description goes here i believe.
 
-If theres grass on the field, play ball.
+Thats what grandpa always said.
